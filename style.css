@@ -1,0 +1,28 @@
+
+body{
+    background-color: #f9eaff;
+}
+main{
+    text-align: center;
+}
+ol{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+BUTTON{
+    color: rgb(126, 126, 20);
+}
+hr{
+    text-decoration: dotted;
+}
+.edu main{
+    text-align: center;
+}
