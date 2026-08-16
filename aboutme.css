@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+*{
+    background-color: rgb(171, 213, 199);
+}
+main{
+
+}
+img{
+    padding-left: 500px;
+}
+p{
+    text-align: center;
+    height: 250px;
+    border: 10px solid black;
+    border-radius: 40%;
+    font-size: 20px;
+    padding-top: 20px;
+}

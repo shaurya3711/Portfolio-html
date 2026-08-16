@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(107, 179, 179);
+}
+main{
+    text-align: center;
+}
+section{
+    height: 200px;
+    text-align: left;
+}
+main{
+    text-align: center;
+}
+main{
+    ;
+    border:5px solid black;
+  border-radius: 50%;
+    font-size: 25px;
+    padding-left: 500px;
+    padding-top:15px;
+}
